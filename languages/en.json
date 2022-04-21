@@ -1,0 +1,7 @@
+{
+	"plugin-data":
+	{
+		"name": "Admin Tag Charts",
+		"description": "Shows a sorted list of used tags witihin the admin area"
+	}
+}

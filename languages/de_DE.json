@@ -1,0 +1,8 @@
+{
+	"plugin-data":
+	{
+		"name": "Admin Tag Charts",
+		"description": "Stellt eine, nach Nutzung sortierte, Liste verwendeter Tags im Admin Bereich zur Verfügung"
+	},
+	"usage": "Nutzung"
+}

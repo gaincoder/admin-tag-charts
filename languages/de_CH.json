@@ -4,5 +4,8 @@
 		"name": "Admin Tag Charts",
 		"description": "Stellt eine, nach Nutzung sortierte, Liste verwendeter Tags im Admin Bereich zur Verfügung"
 	},
-	"usage": "Nutzung"
+	"usage": "Nutzung",
+	"are-you-sure-you-want-to-delete-this-tag?": "Bist Du sicher, dass Du diesen Tag löschen möchtest?",
+	"delete-tag" : "Tag löschen",
+	"tag-deleted" : "Tag gelöscht"
 }
